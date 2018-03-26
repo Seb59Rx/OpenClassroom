@@ -1,0 +1,8 @@
+Projet de création d'un site web permettant de gerer une ludotheque personnel.
+
+Le site doit permettre à l'utilisateur :
+>> De créer des fiches sur des jeux de societé.
+>> De tenir un calendrier des differentes parties jouées.
+>> De noter les noms des differents joueurs sur chaque partie.
+>> De faire des statistique par jeux, par joueur, par date ... etc
+
