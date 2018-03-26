@@ -6,3 +6,8 @@ Le site doit permettre à l'utilisateur :
 >> De noter les noms des differents joueurs sur chaque partie.
 >> De faire des statistique par jeux, par joueur, par date ... etc
 
+Ajout de fonctionnalité a prévoir:
+
+>> Possibilité de créer d'autre utilisateur.
+>> Gestion des amis.
+>> Systeme de pret de jeux.
